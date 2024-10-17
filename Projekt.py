@@ -42,7 +42,7 @@ def text_analysis(text_):
     print(f"Ve vybraném textu je/jsou {title_words} slov/a s počatečním velkým písmenem.")
     print(f"Ve vybraném textu je {upper_words} slov/o psané/ých velkými písmeny.")
     print(f"Ve vybraném textu je {lower_words} slov s malými písmeny.")
-    print(f"Ve vybraném textu je/jsou {numeric_words} slova s číselným stringem.")
+    print(f"Ve vybraném textu je/jsou {numeric_words} slova/o s číselným stringem.")
     print(f"Suma všech čísel v textu je {numeric_sum}.")
 
     print(f"{commas}\nLEN|  OCCURENCES  |NR.\n{commas}")
